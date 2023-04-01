@@ -1,6 +1,6 @@
 
 import streamlit
-streamlit.Header('Aasini Achivements'
+streamlit.header('Aasini Achivements'
 streamlit.title('Aasini-First Robotic project')
 streamlit.title('She won Best team award')
 streamlit.title('Aasini selected for State compitition')
