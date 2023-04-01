@@ -1,3 +1,3 @@
 
 import streamlit
-streamlit.title('Aasini-First robotic project')
+streamlit.title('Aasini-First Robotic project')
