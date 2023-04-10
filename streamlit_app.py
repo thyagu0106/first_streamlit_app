@@ -61,5 +61,5 @@ streamlit.dataframe(my_data_row)
 
 # import streamlit as st
 
-title = streamlit.text_input('Movie title', 'Life of Brian')
-streamlit.write('The current movie title is', title)
+add_my_fruit = streamlit.text_input('What fruit would like to add?', 'Koyya')
+streamlit.write('Added fruit is', add_my_fruit)
