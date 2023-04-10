@@ -62,4 +62,4 @@ streamlit.dataframe(my_data_row)
 # import streamlit as st
 
 title = streamlit.text_input('Movie title', 'Life of Brian')
-st.write('The current movie title is', title)
+streamlit.write('The current movie title is', title)
