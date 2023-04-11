@@ -78,5 +78,4 @@ if stremlit.button("Add a Fruit to the list'):
 		   stremlit.text(back_from_function)
 		   
 		   
-streamlit.write('Added fruit is', add_my_fruit)
-my_cur.execute("insert into fruit_load_list values ('add_my_fruit')")
+
